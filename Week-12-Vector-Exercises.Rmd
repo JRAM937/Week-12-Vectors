@@ -37,7 +37,7 @@ vec <- c(-2, -1, 0)
 lst <- list(-2, -1, 0)
 
 abs(vec)
-abs(lst)
+#abs(lst)
 ```
 
 
@@ -51,7 +51,7 @@ Extract the code to answer the question and copy/paste it here
 *Hint: View() sw_people*
 
 ```{r}
-View(sw_people)
+#View(sw_people)
 
 #Darth Vader is taller (202cm vs 188cm)
 ```
